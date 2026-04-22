@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { AnimatePresence, motion } from "motion/react";
+import { motion, AnimatePresence } from "framer-motion";
 import {
   ArrowRight,
   BarChart3,
